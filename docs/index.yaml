@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ragic:
+  - apiVersion: v2
+    appVersion: "20230420"
+    created: "2023-04-28T16:28:48.212484+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 1cf597c3a8de7de46cea99e0b06a44d34467ffc27f8311a2f21d90336da144ec
+    name: ragic
+    type: application
+    urls:
+    - https://moda-gov-tw.github.io/helm-charts/ragic-20230420.tgz
+    version: "20230420"
+generated: "2023-04-28T16:28:48.211972+08:00"
